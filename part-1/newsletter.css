@@ -1,0 +1,29 @@
+.newsletter {
+    text-align: center;
+  }
+  
+  .newsletter .newsletter__heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .newsletter .newsletter__input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1rem;
+    min-width: 300px;
+  }
+  
+  .newsletter .newsletter__button {
+    padding: 0.5rem;
+    color: #c0c0c0;
+    background: #fafafa;
+    font-size: 16px;
+  }
+  
+  .newsletter .newsletter__button.newsletter__button--call-to-action{
+    background: #74B9FF ;
+    border-color: #74B9FF;
+    color: white;
+  }
