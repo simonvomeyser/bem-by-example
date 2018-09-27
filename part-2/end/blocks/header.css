@@ -1,0 +1,19 @@
+.header {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.header .header__navbar {
+    background-color: #04AEEE;
+}
+.header .header__image {
+    background-size: cover;
+    background-image: url(header-hero.png);
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 64px;
+    color: #494949;
+    font-family: 'Ropa Sans', sans-serif;
+}
