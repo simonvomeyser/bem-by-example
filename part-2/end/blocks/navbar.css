@@ -1,0 +1,13 @@
+.navbar {
+    height: 112px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 900px;
+    margin: auto;
+}
+.navbar .navbar__brand {
+    font-size: 48px;
+    font-family: 'Ropa Sans', sans-serif;
+    color: #B6DAFF;
+}
