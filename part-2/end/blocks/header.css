@@ -13,6 +13,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.header .header__big-heading {
+    align-items: center;
     font-size: 64px;
     color: #494949;
     font-family: 'Ropa Sans', sans-serif;
