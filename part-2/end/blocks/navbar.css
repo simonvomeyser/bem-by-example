@@ -11,3 +11,21 @@
     font-family: 'Ropa Sans', sans-serif;
     color: #B6DAFF;
 }
+.navbar .navbar__list ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+}
+.navbar .navbar__list li {
+    margin: 0;
+    padding: 0;
+}
+.navbar .navbar__list li+li {
+    margin-left: 2rem;
+}
+.navbar .navbar__list a {
+    font-size: 24px;
+    color: #B6DAFF;
+    text-decoration: none;
+}
