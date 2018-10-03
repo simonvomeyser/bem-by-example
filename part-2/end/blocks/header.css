@@ -10,11 +10,9 @@
     flex: 1;
     background-size: cover;
     background-image: url(../images/header-hero.png);
+
     display: flex;
     justify-content: center;
-    align-items: center;
-}
-.header .header__big-heading {
     align-items: center;
     font-size: 64px;
     color: #494949;
