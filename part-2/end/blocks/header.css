@@ -5,6 +5,7 @@
 }
 .header .header__navbar {
     background-color: #04AEEE;
+    height: 110px;
 }
 .header .header__image {
     flex: 1;
