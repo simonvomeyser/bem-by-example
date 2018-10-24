@@ -29,3 +29,18 @@
     color: #B6DAFF;
     text-decoration: none;
 }
+
+@media (max-width: 900px) {
+    .navbar {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .navbar .navbar__brand {
+        text-align: center;
+        width: 100%;
+        font-size: 34px;
+    }
+    .navbar .navbar__list a{
+        font-size: 18px;
+    }
+} 
