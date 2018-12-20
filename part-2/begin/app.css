@@ -3,6 +3,7 @@
 
 html {
   box-sizing: border-box;
+  font-size: 16px;
 }
 
 *, *:before, *:after {
@@ -11,7 +12,6 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
   margin: 0;
   padding: 0;
 }
